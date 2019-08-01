@@ -1,6 +1,14 @@
 # recent_projects_and_problems
 A repo that highlights recent projects and problems.
 
+
+**Create a web application that centers around a list of books**
+[upcase_book_app](https://github.com/amymhaddad/upcase_booklist_app/tree/master/upcase_booklist_app)
+
+Currently this application features a homepage and three additional pages.
+
+
+
 **Create and design a personal website**
 [cs50_project0](https://github.com/amymhaddad/cs50_project0)
 
