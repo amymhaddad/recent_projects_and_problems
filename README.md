@@ -1,10 +1,6 @@
 # recent_projects_and_problems
 A repo that highlights recent projects, programs, and problems.
 
-#projects-programs-problems
-[Projects](# Projects)
-[Programs](# Programs)
-
 # Projects
 ### [upcase_book_app](https://github.com/amymhaddad/upcase_booklist_app/tree/master/upcase_booklist_app)
 
