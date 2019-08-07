@@ -28,3 +28,15 @@ I created a program that prompts a user to enter a todo. I display the todo's an
 
 ### [track_inventory](https://github.com/amymhaddad/exercises_for_programmers_2019/tree/master/track_inventory)
 I wrote a program that tracks personal inventory. The program allows the user to enter an item, a serial number, and estimated value. And it prints out the information in a tabular format.
+
+#Problems
+### [luhn](https://github.com/amymhaddad/exercism/tree/master/python/luhn)
+This is an Exercism problem I completed that determines whether or not it is valid per the Luhn formula.
+
+### [armstrong_numbers](https://github.com/amymhaddad/exercism/tree/master/python/armstrong-numbers)
+This is an Exercism problem I completed that determines whether a number is an Armstrong number, which is a number that is the sum of its own digits each raised to the power of the number of digits.
+
+### [rain_drops](https://github.com/amymhaddad/exercism/tree/master/python/raindrops)
+This is an Exercism problem I completed where I had to convert a number to a string, the contents of which depend on the number's factors.
+
+
