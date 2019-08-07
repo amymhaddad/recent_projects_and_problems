@@ -1,6 +1,10 @@
 # recent_projects_and_problems
 A repo that highlights recent projects, programs, and problems.
 
+#projects-programs-problems
+[Projects](# Projects)
+[Programs](# Programs)
+
 # Projects
 ### [upcase_book_app](https://github.com/amymhaddad/upcase_booklist_app/tree/master/upcase_booklist_app)
 
@@ -29,7 +33,7 @@ I created a program that prompts a user to enter a todo. I display the todo's an
 ### [track_inventory](https://github.com/amymhaddad/exercises_for_programmers_2019/tree/master/track_inventory)
 I wrote a program that tracks personal inventory. The program allows the user to enter an item, a serial number, and estimated value. And it prints out the information in a tabular format.
 
-#Problems
+# Problems
 ### [luhn](https://github.com/amymhaddad/exercism/tree/master/python/luhn)
 This is an Exercism problem I completed that determines whether or not it is valid per the Luhn formula.
 
