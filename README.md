@@ -1,4 +1,4 @@
-# Recent Projects, Programs, and Projects
+# Recent Projects, Programs, and Problems
 A repo that highlights recent projects, programs, and problems.
 
 # Projects
