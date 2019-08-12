@@ -1,18 +1,18 @@
 # Recent Projects, Programs, and Problems
-A repo that highlights recent projects, programs, and problems.
+A repo that highlights my recent projects, programs, and problems.
 
 # Projects
 ### [Book App](https://github.com/amymhaddad/upcase_booklist_app)
 
-I'm building an application about Python books and authors. It features a homepage and three additional pages: books, authors, and lists pages. A user can navigate among these pages. I plan to apply SQL to this application next. 
+This application is about Python books and authors, modeled after the Goodreads website. My application features a homepage and three additional pages: books, authors, and book lists pages, which a user can navigate between. I plan to store the application’s data in a PostgreSQL database and use SQL to interact with it.
 
 ### [CS50 Project0](https://github.com/amymhaddad/cs50_project0)
 
-For the course, Web Programming with Python and JavaScript, I created a webpage about myself and my interests. It includes a homepage (amymhaddad) and three links to separate pages on: writing, programming, and lifelong learning. A user can navigate among these pages. Each page includes links, lists, and/or a table. Each page has its own stylesheet.
+For the course, Web Programming with Python and JavaScript, I created a webpage about myself and my interests. It includes a homepage and three links to separate pages on: writing, programming, and lifelong learning. A user can navigate among these pages. Each page includes links, lists, and/or a table. Each page has its own stylesheet.
 
 # Programs
 ### [Flask Product Search](https://github.com/amymhaddad/exercises_for_programmers_2019/tree/master/flask_product_search)
-I used Flask to create a program that takes a product name as input and retrieves the current price and quantity for that product. I retrieved the data from a JSON file. I return the product name, price, and quantity if the product is found. 
+I used Flask to create a program that takes a product name as input and retrieves the current price and quantity for that product. I retrieved the data from a JSON file. Then, I returned the product name, price, and quantity if the product is found. 
 
 ### [Product Search with User Input](https://github.com/amymhaddad/exercises_for_programmers_2019/tree/master/product_search)
 I created a program that takes a product name as input and retrieves the current price and quantity for that product. The product data is in a data file in the JSON format. The program prints out the product name, price, and quantity if the product is found. If no product matches the search, state that no product was found and start over.
